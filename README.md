@@ -42,7 +42,7 @@ Cada pasta acima contém um arquivo README com detalhes de cada projetos.
 
 #### Projetos
 
-- [ ] Bloco 9 - [Shoppingcart and Jest(Async/Mocking)]() 
+- [ ] Bloco 9 - [Shoppingcart and Jest(Async/Mocking)](https://github.com/pedrohassen/trybe-projects/tree/main/front-end/shoping-cart) 
 - [ ] Bloco 11 - Movie Cards Library - 
 - [ ] Bloco 12 - Movie Cards Library Stateful - 
 - [ ] Bloco 13 - Movie Cards Library Crud - 
