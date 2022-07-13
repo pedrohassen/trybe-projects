@@ -26,15 +26,15 @@ Cada pasta acima contém um arquivo README com detalhes de cada projetos.
 
 #### Projetos
 - [x] Bloco 3 - [Lessons Learned](https://github.com/pedrohassen/trybe-projects/tree/main/lessons-learned)
-- [x] Bloco 4 - Playground Functions  - 
-- [x] Bloco 5 - Pixel Art - 
-- [x] Bloco 5 - Todo List - 
-- [x] Bloco 5 - EXTRAS - Color Guess - 
-- [x] Bloco 5 - EXTRAS - Meme Generator - 
-- [x] Bloco 5 - EXTRAS - Mistery Letter - 
-- [x] Bloco 6 - Trybewarts - 
-- [x] Bloco 7 - ES6 e Testes Unitários - 
-- [x] Bloco 8 - ES6 e Higher Order Functions - 
+- [x] Bloco 4 - [Playground Functions](https://github.com/pedrohassen/trybe-projects/tree/main/playground-functions) 
+- [x] Bloco 5 - [Pixel Art]()
+- [x] Bloco 5 - [EXTRAS - Todo List]()
+- [x] Bloco 5 - [EXTRAS - Color Guess]()
+- [x] Bloco 5 - [EXTRAS - Meme Generator]()
+- [x] Bloco 5 - [EXTRAS - Mistery Letter]()
+- [x] Bloco 6 - [Trybewarts]()
+- [x] Bloco 7 - [Unit Tests]()
+- [x] Bloco 8 - [Zoo Functions]() 
 
 ---
 
@@ -42,7 +42,7 @@ Cada pasta acima contém um arquivo README com detalhes de cada projetos.
 
 #### Projetos
 
-- [ ] Bloco 9 - Shoppingcart and Jest(Async/Mocking) - 
+- [ ] Bloco 9 - [Shoppingcart and Jest(Async/Mocking)]() 
 - [ ] Bloco 11 - Movie Cards Library - 
 - [ ] Bloco 12 - Movie Cards Library Stateful - 
 - [ ] Bloco 13 - Movie Cards Library Crud - 
