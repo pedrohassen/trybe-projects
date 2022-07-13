@@ -29,7 +29,7 @@ Cada pasta acima contém um arquivo README com detalhes de cada projetos.
 - [x] Bloco 4 - [Playground Functions](https://github.com/pedrohassen/trybe-projects/tree/main/playground-functions) 
 - [x] Bloco 5 - [Pixel Art](https://github.com/pedrohassen/trybe-projects/tree/main/pixels-art)
 - [x] Bloco 5 - [EXTRAS - Todo List](https://github.com/pedrohassen/trybe-projects/tree/main/todo-list)
-- [x] Bloco 5 - [EXTRAS - Color Guess]()
+- [x] Bloco 5 - [EXTRAS - Color Guess](https://github.com/pedrohassen/trybe-projects/tree/main/color-guess)
 - [x] Bloco 5 - [EXTRAS - Meme Generator]()
 - [x] Bloco 5 - [EXTRAS - Mistery Letter]()
 - [x] Bloco 6 - [Trybewarts]()
