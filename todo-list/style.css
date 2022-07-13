@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+/* #title {
+}
+
+#funcionamento {
+}
+
+#texto-tarefa {
+} */
+
+#lista-tarefas {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#lista-tarefas li {
+  list-style-position: inside;
+}
+
+/* #criar-tarefa {
+  display: flex;
+  justify-content: center;
+}
+
+#apaga-tudo {
+  display: flex;
+  justify-content: center;
+}
+
+#remover-finalizados {
+  display: flex;
+  justify-content: center;
+}
+
+#salvar-tarefas {
+  display: flex;
+  justify-content: center;
+}
+
+#mover-cima {
+  display: flex;
+  justify-content: center;
+}
+
+#mover-baixo {
+  display: flex;
+  justify-content: center;
+}
+
+#remover-selecionado {
+  display: flex;
+  justify-content: center;
+} */
+
+.selected-item {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
