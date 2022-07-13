@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(253, 251, 251);
+  width: 100%;
+}
+
+#cabecalho {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+}
+
+#titulo {
+  background-color: gray;
+  padding: 30px;
+}
+
+.no_style_list {
+  list-style: none;
+}
+
+#nav_display {
+  display: flex;
+  flex-direction: row;
+  margin: 5% 0 1%;
+  justify-content: center;
+  align-items: center;
+}
+
+#contato {
+  flex: 1;
+}
+
+#links {
+  display: flex;
+}
+
+#link1 {
+  flex: 1;
+}
+
+#link2 {
+  flex: 1;
+}
+
+#minha_foto {
+  flex: 1;
+  width: 50%;
+  margin-top: 0.1%;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+}
+
+#table_flex {
+  background-color: gray;
+  box-sizing: content-box;
+  margin: 2px;
+  padding: 2px;
+  border: 2;
+}
+
+#flex_listas {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.lado-esquerdo {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+}
+
+.lado-direito {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+#licoes_aprendidas {
+  padding: 50px;
+}
+
+#licoes_a_aprender {
+  padding: 50px;
+}
+
+aside {
+  padding: 50px;
+}
+
+#rodape {
+  background-color: gray;
+  display: block;
+  text-align: center;
+  padding: 40px;
+  left: 150px;
+  top: 500px;
+}
+
+p {
+  font-size: 20px;
+  color: black;
+  padding: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 22px;
+}
