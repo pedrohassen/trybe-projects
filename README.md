@@ -32,7 +32,7 @@ Cada pasta acima contém um arquivo README com detalhes de cada projetos.
 - [x] Bloco 5 - [EXTRAS - Color Guess](https://github.com/pedrohassen/trybe-projects/tree/main/color-guess)
 - [x] Bloco 5 - [EXTRAS - Meme Generator](https://github.com/pedrohassen/trybe-projects/tree/main/meme-generator)
 - [x] Bloco 5 - [EXTRAS - Mistery Letter](https://github.com/pedrohassen/trybe-projects/tree/main/mistery-letter)
-- [x] Bloco 6 - [Trybewarts]()
+- [x] Bloco 6 - [Trybewarts](https://github.com/pedrohassen/trybe-projects/tree/main/trybewarts)
 - [x] Bloco 7 - [Unit Tests]()
 - [x] Bloco 8 - [Zoo Functions]() 
 
